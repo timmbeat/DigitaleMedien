@@ -1,0 +1,68 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf810
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\froman\fcharset0 Times-Roman;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 Digitale Medien Blatt 1 \
+\
+Aufgabe 1:\
+a)\
+\
+Perzeptionsmedium: Wahrnehung von Informationen beim Menschen. Wie nimmt der Mensch die Informationen auf.\
+\
+Repr\'e4sentationsmedium: Darstellung  bzw. Repr\'e4asentation von Informationen im Computer. Dazu geh\'f6ren voralllem die Dateiformate und wie diese auf der Festplatte dargestellt sind.\
+\
+Pr\'e4sentationsmedium: Verbreitung von Infomationen. Hierbei geht es darum, wie die Informationen dargestellt und den Nutzer bereitgestellt werden.\
+\
+\'dcbertragungsmedium: Hierbei geht es um das Medium auf dem die Informationen verbreitet werden und wie diese \'dcbertragung funktioniert. \
+\
+Speichermedium: Ist das Medium auf dem die Informationen gespeichert werden. z.B. Festplatte, CD, ...\
+\
+Informationsaustaschmedium: Dies ist der \'dcberbegriff von \'dcbertragungs und Speichermedium und stellt im allgemeinen das Medium dar, welches f\'fcr den Austausch von Informationen genutzt wird.\
+\
+b) \
+Die zwei Kategorien sind aufgeteilt in Benutzerbezogen und Verbreitungsbezogen. Die Benutzerbezogenen Medientypen stehen direkt mit dem Nutzer in Verbindung und werden direkt an ihn angepasst. Die Verbreitungsbezogenen Medientypen sind das Bindeglied zwischen den einzelnen Nutzer, stehen aber f\'fcr den einzelnen Nutzer nur im Hintergrund. \
+\
+Aufgabe 2 :\
+\
+Perzeptionsmedien: Bei den Perzeptionsmedien geht es um die Aufnahme der Informationen, monomodal hei\'dft in dem Fall, das nur ein Sinn des Menschen genutzt wird um die Information aufzunehmen. Bei Mulitmodal werden mehrere Sinne ben\'f6tigt um die komplette Information aufnehmen zu k\'f6nnen.\
+\
+Pr\'e4sentationsmedium: Hierbei geht es um die Ausgabe von Medien. Monomedial ist ein Medium welches die Informationen f\'fcr nur eine Perzeptionsmedium bereitstellt. Mulitmedial hei\'dft daher, dass das Medium f\'fcr mehrere Perzeptionsmedien Informationen weitergibt. \
+\
+Repr\'e4sentationsmedien: Hierbei geht es um die Darstellung der Informationen im genauen. Nicht das Medium steht im Vordergrund, sondern die Darstellung auf dem Medium. Monocodal hei\'dft daher die R\'e4presentation ist nur f\'fcr ein Perzeptionsmedium ausgelegt. Multicodal ist demnach auf mehrere Perzeptionsmedien ausgelegte Datenrepr\'e4sentation.\
+\
+Aufgabe 3:\
+\
+\pard\pardeftab720\sl300\sa240\partightenfactor0
+
+\f1\fs26\fsmilli13333 \cf2 \expnd0\expndtw0\kerning0
+Darstellungsr\'e4ume sind die Orte an denen Informationen dargestellt werden. Dabei geht es nicht nur um das Pr\'e4sentationsmedium sondern auch ihre Umgebebung und wie sich diese evtl. auch auf die Gesammtwahrnehmung auswirkt.
+\fs24 \
+
+\fs26\fsmilli13333 Die Darstellungswerte sind abh\'e4ngig vom Medientyp, dabei geht es um die genaue Repr\'e4sentation des Werte, aus welchen der Medientyp zusammengesetzt wird.
+\fs24 \
+
+\fs26\fsmilli13333 Bei Darstellungsdimensionen geht es um die Dimension des Mediums. Hierbei sind genaue mathematische Fakten wie die Raumdimension, die Zeitdimension oder eine Kombination von beidem von Bedeutung. \
+Bsp. 1 : Kino 2D\
+Darstellungsraum: gro\'dfer dunkler Saal mit guter Akustik und auf Kinoleinwand, Darstellungswert: Farbskala und akustische Druckwellen, Darstellungsdimension: koninuierliches Medium mit 2-dimensionaler Bilddarstellung \
+Bsp.2: Buch \
+\pard\pardeftab720\sl300\sa240\partightenfactor0
+\cf2 Darstellungsraum: Papier , Darstellungswert: Buchstaben , Darstellungsdimension: zeitunabh\'e4niges Medium in 2D Text  \
+Bsp.2: PC-Spiel \
+Darstellungsraum: Bildschirm und Kopfh\'f6rer evtl. Haptik von vibrierender Maus,Joystik o.\'e4 , Darstellungswert: Farbscala, akustische Druckwellen,Buchstaben , Darstellungsdimension: zeitabh\'e4niges Medium in 2D mit Audio,Video,Animation und Haptik 
+\fs24 \cf2 \
+\
+\
+\
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0 \cf0 \kerning1\expnd0\expndtw0 \
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+\cf0 \
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+\cf0 \
+\
+\
+}
