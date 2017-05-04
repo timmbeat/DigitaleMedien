@@ -1,0 +1,88 @@
+\documentclass[11pt,twoside,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{algorithm}
+\usepackage{listings}
+
+
+\begin{document}
+
+\section{Digitale Medien Blatt 2 }
+
+\subsection{Aufgabe 1}
+
+p(t) = p_3^3  = (1-t) p^2_2 + t p^2_3 
+
+= (1-t)[(1-t) p_1^1 + t p_2^1] + t[(1-t)p^1_2 + t p^1_3]
+
+= (1-t)[(1-t)[(1-t)p_0 + t p_1]+t[(1-t) p_1 + t p_2]] + t[(1-t)[(1-t) p_1 + t p_2] + t [(1-t) p_2 + t p_3]]
+
+= (1-t)[(1-t)^2 p_0 + t(1-t)p_1 + t(1-t)p_1 + t^2 p_2] + [(1-t)^2 p_1 + t(1-p) p_2 + t(1-t)p_2 + t^2 p_3]
+
+= (1-t)^{3} p_0 + t(1-t)^{2} p_1 + t(1-t)^2 p_1 + t^2 (1-t)p_2 + t(1-t)^2 p_1 + t^2 (1-t) p_2 + t^2 (1-t) p_2 + t^3 p_3
+
+= (1-t)^{3} p_0 + 3 t(1-t)^{2} p_1 + 2 t^2 (1-t)p_2 + t^3 p_3
+
+\subsection{Aufgabe 2}
+
+n = Ordnung 
+
+\displaystyle\sum_{i=0}^{n} ((n-k+1) t^k (1-t)^{(n-k)} p	^k ) - (n+1)
+
+
+\subsection{Aufgabe 3}
+
+\begin{algorithm}[H]
+\caption{Einfacher Algorithmus}\label{euclid}
+\begin{lstlisting} [mathescape=true]
+$t_{start}$ = 0
+n = Dimension
+while(t < 1){
+    
+    P(t) = $(1-t)^{3} p_0 + 3 t(1-t)^{2} p_1 + 2 t^2 (1-t)p_2 + t^3 p_3$
+ 
+    draw P(t)
+    t += $\varepsilon $
+}
+\end{lstlisting}
+\end{algorithm}
+
+
+\begin{algorithm}[H]
+\caption{Bezier Algorithmus}\label{euclid}
+\begin{lstlisting}[mathescape=true]
+function devide(point P0, point P1, point P2, point P3){
+	if(isLine(P0,P1,P2,P3) == true){
+		drawLine(point p0, point p1)
+	}else{
+		devide($P_0^0, P_1^1, P_2^2, P_3^3$)
+		devide($P_3^3, P_3^2, P_3^1, P_3^3$)
+	}
+}
+\end{lstlisting}
+\end{algorithm}
+
+
+
+
+\subsection{Aufgabe 4}
+
+Algorithmus 1:
+
+\begin{itemize} 
+\item (+) einfach zu implementieren 
+\item (-) viele Berechnungen: lange Laufzeit 
+\item (-) trotzdem können große Abstände zwischen manchen Punkten liegen, sodass die Linie nicht durchgängig ist.
+\end{itemize}
+
+
+Algorithmus 2: 
+
+\begin{itemize} 
+\item (+) keine Pixel-Lücken in der Kurve
+\item (+) bessere Laufzeit wegen divide and conquer
+\end{itemize}
+
+
+
+
+\end{document}
